@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_subarray","url":"d:\\c++ progs\\.vscode\\sum_of_subarray.cpp","tests":[{"id":1656926123473,"input":"1,3,5,7\n","output":""},{"id":1656926141526,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++ progs\\.vscode\\sum_of_subarray.cpp","group":"local","local":true}

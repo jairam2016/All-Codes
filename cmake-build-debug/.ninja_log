@@ -1,0 +1,8 @@
+# ninja log v5
+10	1059	6766488751162886	CMakeFiles/c___progs.dir/main.cpp.obj	1184629d771297e7
+961	1577	6769941465096680	c___progs.exe	450d130ad71a2fca
+5	511	6769942588270855	build.ninja	4cc84a00069c2f8a
+1	957	6769941458930145	CMakeFiles/c___progs.dir/main.c.obj	e76b2ae637412dde
+52	293	6769942801561393	CMakeFiles/c___progs.dir/test..c.obj	dc1e1b3b7fe95cff
+18	297	6769942801633022	CMakeFiles/c___progs.dir/main.c.obj	e76b2ae637412dde
+14	266	6769943045319448	CMakeFiles/c___progs.dir/test..c.obj	dc1e1b3b7fe95cff
